@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+
+# Generated reports
+impactlens_reports/
+sample_repo/impactlens_reports/
+
+# Cloned testing repository
+sample_repo/
